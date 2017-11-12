@@ -1,1 +1,1 @@
-# Predicting_Poverty_based_o_Satellite_Images
+# Predicting_Poverty_based_on_Satellite_Images

@@ -6,6 +6,6 @@
   - the wealth index data which contains the wealth index of the regions
 3) after that we map regions from the survey data with welath index data to find out the welath index bucket(lower, middle) .
    we did not considered after level classes due to inbalancing in the data.
-4) after that we map Images to different poverty bucket using above data to label Images for classifcation purpose.
+4) after that we map Images to different poverty bucket using above data to label Images for classification purpose.
 5) we used pretrained model inception net to trained our Images.
 6) we achived validation 71 % validation accuracy.

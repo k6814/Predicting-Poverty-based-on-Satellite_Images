@@ -8,4 +8,4 @@
    we did not considered after level classes due to inbalancing in the data.
 4) after that we map Images to different poverty bucket using above data to label Images for classification purpose.
 5) we used pretrained model inception net to trained our Images.
-6) we achived validation 71 % validation accuracy.
+6) we achived 71 % validation accuracy.
